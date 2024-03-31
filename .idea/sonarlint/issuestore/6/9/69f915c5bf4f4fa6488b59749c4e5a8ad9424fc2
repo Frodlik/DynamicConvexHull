@@ -1,0 +1,9 @@
+
+{
+java:S1210B"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(þฬนเ๚ÿÿÿÿ8ฝ๘ช้1
+A
+java:S1659"Declare "y" on a separate line.(Þึ๊ÿÿÿÿÿ8ฝ๘ช้1
+O
+java:S1659"-Declare "INACTIVE_SHADOW" on a separate line.(๊์๗๔þÿÿÿÿ8พ๘ช้1
+_
+java:S62017"BReplace this instanceof check and cast with 'instanceof Pane pane'(ใ฿๐๘8ร๘ช้1

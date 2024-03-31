@@ -1,0 +1,27 @@
+
+K
+java:S1659")Declare "dragOriginY" on a separate line.(İ­Ï‡şÿÿÿÿ8¿Ù”ªé1
+G
+java:S1659"%Declare "originY" on a separate line.(ğà‡óşÿÿÿÿ8¿Ù”ªé1
+F
+java:S1659"$Declare "height" on a separate line.(¯‹´—ûÿÿÿÿ8¿Ù”ªé1
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(“ÌÔçùÿÿÿÿ8ÃÙ”ªé1
+a
+java:S6201&"DReplace this instanceof check and cast with 'instanceof Pane canvas'(Š¡°Ù8ÈÙ”ªé1
+\
+java:S1117'":Rename "canvas" which hides the field declared at line 15.(¥õıãûÿÿÿÿ8ÉÙ”ªé1
+M
+java:S1481'"+Remove this unused "canvas" local variable.(¥õıãûÿÿÿÿ8ÊÙ”ªé1
+N
+java:S16024",Remove useless curly braces around statement(šÌà”ùÿÿÿÿ8ÌÙ”ªé1
+[
+java:S6201F"?Replace this instanceof check and cast with 'instanceof Line l'(©ı¥8ÏÙ”ªé1
+\
+java:S6201["?Replace this instanceof check and cast with 'instanceof Line l'(ƒÊ—¹8ÑÙ”ªé1
+e
+java:S1612q"CReplace this lambda with method reference 'Line.class::isInstance'.(ÙÁûøÿÿÿÿ8ÔÙ”ªé1
+G	java:S106s"+Replace this use of System.out by a logger.(ÜµÓ8ÕÙ”ªé1
+L	java:S106t"+Replace this use of System.out by a logger.(Öî¿ıÿÿÿÿ8ÖÙ”ªé1
+G	java:S106v"+Replace this use of System.out by a logger.(ëÕÔğ8ÖÙ”ªé1
+L	java:S106x"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8×Ù”ªé1
